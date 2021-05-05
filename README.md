@@ -1,4 +1,4 @@
-# Gift Grouping
+# Project Name
 
 ![screenshot](./app_screenshot.png)
 
